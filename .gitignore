@@ -3,3 +3,6 @@
 
 # Ignore node dependencies
 node_modules/
+
+# Ignore reports
+playwright-reports/
