@@ -10,8 +10,8 @@ This assignment tests an API using Playwright and JavaScript to assert that user
 **Setup**
 **1. Clone the Repository**
 ```
-git clone <repository-url>
-cd fan-code-api-tests
+git clone https://github.com/bmukund21/FanCode-API-Test
+cd api-tests
 ```
 **2. Install Dependencies**
 Ensure all required dependencies for Playwright and testing are installed:
