@@ -1,0 +1,19 @@
+{
+    "name": "api-test-automation",
+    "version": "1.0.0",
+    "description": "API automation framework for validating user task completion",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx playwright test"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.48.0",
+        "playwright": "^1.37.0"
+    },
+    "dependencies": {
+        "node-fetch": "^3.3.2"
+    }
+}
